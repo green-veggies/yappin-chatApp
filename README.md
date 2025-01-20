@@ -44,13 +44,8 @@ Yappin Chat App is a cutting-edge real-time chat application that enables seamle
 
 For detailed setup instructions, refer to the backend and frontend sections:
 
-1. [Backend Setup](./server/README.md)
-2. [Frontend Setup](./client/README.md)
-
----
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+1. [Backend Setup](./server/)
+2. [Frontend Setup](./client/)
 
 ---
 
