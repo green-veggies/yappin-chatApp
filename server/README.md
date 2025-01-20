@@ -66,6 +66,3 @@ For production, make sure to:
 1. Set the environment variables in your deployment environment.
 2. Use a process manager like PM2 or Docker to run the backend.
 3. Configure your database and Redis server for production.
-
----
-
